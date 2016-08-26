@@ -14,6 +14,9 @@
 # This will also delete any *.g files in the specified
 # directory (and subdirs) as a final step. 
 #
+# DO NOT COPY DD FILES ACROSS DIFFERENT VERSIONS OF I/A.
+# THey have different parameter sets for different blocks. 
+#
 # Shared with no warranty, guarantees, etc. 
 #
 #------------------/!\ WARNING /!\------------------#
